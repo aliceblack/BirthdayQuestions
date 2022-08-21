@@ -1,6 +1,11 @@
 # Birthdayquestions
 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/e2693713-8970-429f-9241-0d9aed44db64/deploy-status)](https://app.netlify.com/sites/jade-croissant-a6bb62/deploys)
+
 This is a very ugly joke for a friend birthday!
+
+> https://jade-croissant-a6bb62.netlify.app/
+
 
 
 # Angular
