@@ -845,3 +845,11 @@ html {
   th {
     padding: 0;
   }
+
+  /** Other **/
+  .code-example {
+    padding: 1em;
+    margin: 1em;
+    background: #EEE;
+    border-radius: 4px;
+}
