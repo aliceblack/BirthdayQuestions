@@ -6,7 +6,8 @@ This is a very ugly joke for a friend birthday!
 
 > https://jade-croissant-a6bb62.netlify.app/
 
-
+## CSS
+`app.component.css` included Skeleton CSS 2.0.4 code.
 
 # Angular
 
